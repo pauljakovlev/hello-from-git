@@ -2,3 +2,5 @@
 
 print ('hello, half of the world! - Thanos')
 print ('Bye Thanos! - Ironman')
+
+И теперь меняем
